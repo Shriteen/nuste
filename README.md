@@ -70,6 +70,8 @@ Note the calls to functions in last line. Also, the suffix is changed
 here from '>' to ']' for aesthetic purpose. You may use any suffix of
 your preference.
 
+![Screenshot of prompt](screenshot.png)
+
 ## Disclaimer ##
 This is made available to you under GPLv3, you can use, modify and
 redistribute under the terms of license.✨
